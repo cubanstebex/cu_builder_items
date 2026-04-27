@@ -1,4 +1,4 @@
-# CUBANS FIVEM FURNITURE SET | BEDS | 2026 - V1
+# CUBANS FIVEM FURNITURE SET | BUILDER ITEMS | 2026 - V1
 
 ## REQUIREMENTS
 - A FiveM server
@@ -25,7 +25,7 @@ If your housing script is not listed above, please check our documentation pages
 https://discord.gg/cubanss
 
 ## INSTALLATION
-- Drag and drop the `cu_beds_pt1` file into your `resources` folder
+- Drag and drop the `cu_builder_items` file into your `resources` folder
 - Make sure the resource is ensured in your `server.cfg`
 - Join our Discord to access the documentation pages:  
   https://discord.gg/cubanss
